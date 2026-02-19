@@ -23,10 +23,10 @@ Full stack Developer
 
 ## 🔹 current work
 
-- ### [Vidora] (https://cloudinary-saas.vercel.app/) — Vidora is a web app for compressing videos, generating AI subtitles, and optimizing media for easy sharing.
-- ### [ExpenseFlow] (https://myexpenseflow.vercel.app/) — ExpenseFlow is a dual-mode expense tracker for personal and transport use, with AI receipt scanning and automated month-end summaries.
-- ### [Forgemate] (https://github.com/SohailShaikh7860/Forgemate.git) — ForgeMate is a CLI AI agent with multi-model support for chat, web search, and automated project scaffolding from the terminal.
-- ### [Deal Drop] (https://deal-drop.vercel.app/) — Deal Droper tracks your bucket list and sends email notifications when your target deal becomes available.
+- ### [Vidora](https://cloudinary-saas.vercel.app/) — Vidora is a web app for compressing videos, generating AI subtitles, and optimizing media for easy sharing.
+- ### [ExpenseFlow](https://myexpenseflow.vercel.app/) — ExpenseFlow is a dual-mode expense tracker for personal and transport use, with AI receipt scanning and automated month-end summaries.
+- ### [Forgemate](https://github.com/SohailShaikh7860/Forgemate.git) — ForgeMate is a CLI AI agent with multi-model support for chat, web search, and automated project scaffolding from the terminal.
+- ### [Deal Drop](https://deal-drop.vercel.app/) — Deal Droper tracks your bucket list and sends email notifications when your target deal becomes available.
 
 ---
 
