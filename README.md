@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Sohail shaikh</h1>
+<p align="center">
+Full stack Developer
+</p>
 
-<!--
-**SohailShaikh7860/SohailShaikh7860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://twitter.com/Sohaildevs">twitter</a> •
+<a href="https://linkedin.com/in/sohailshaikh786">linkedin</a> •
+<a href="https://github.com/sohailshaikh7860">github</a> •
+<a href="mailto:sohailshaikh6417@gmail.com">email</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 my goto stack
+
+- typescript · javascript  
+- react · next.js · node.js · express  
+- mongodb · postgresql · prisma  
+- tailwind
+
+---
+
+## 🔹 current work
+
+- [Vidora] (https://cloudinary-saas.vercel.app/) — Vidora is a web app for compressing videos, generating AI subtitles, and optimizing media for easy sharing.
+- [ExpenseFlow] (https://myexpenseflow.vercel.app/) — ExpenseFlow is a dual-mode expense tracker for personal and transport use, with AI receipt scanning and automated month-end summaries.
+- [Forgemate] (https://github.com/SohailShaikh7860/Forgemate.git) — ForgeMate is a CLI AI agent with multi-model support for chat, web search, and automated project scaffolding from the terminal.
+- [Deal Drop] (https://deal-drop.vercel.app/) — Deal Droper tracks your bucket list and sends email notifications when your target deal becomes available.
+
+---
+
+## 🔹 building from zero
+
+I focus on turning ideas into working software — designing, building, and deploying full-stack and AI-driven applications end to end.
+
+Less theory, more execution. The goal is simple: solve real problems and ship.
