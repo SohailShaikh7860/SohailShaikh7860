@@ -1,4 +1,4 @@
-<h1 align="center">Sohail shaikh</h1>
+<h1 align="center">Sohail Shaikh</h1>
 <p align="center">
 Full stack Developer
 </p>
@@ -33,5 +33,4 @@ Full stack Developer
 ## 🔹 building from zero
 
 I focus on turning ideas into working software — designing, building, and deploying full-stack and AI-driven applications end to end.
-
 Less theory, more execution. The goal is simple: solve real problems and ship.
